@@ -6,7 +6,7 @@ body {
 }
 
 li {
-    color: yellow;
+    color: deepskyblue;
 
 }
 
@@ -14,22 +14,50 @@ h2 {
     color: aliceblue
 }
 
-head {
-    
+head {}
+
+li {
+    color: darkred;
 }
-.centered {
-    /*
+
+
+h2 {
+    color: aliceblue;
+}
+
+.giants-blue {
+    color: blue;
+}
+
+.giants-font-big {
+    font-size: 30px;
+
+}
+
+.giants-font-heavy {
+    font-weight: 900;
+}
+
+#content p a {
+    color: red;
+}
+
+body ol,
+body ul {
+    background-color: transparent;
+}
+
+ .centered {
+
     margin-left: 40px;
     margin-right: 50px;
-*/
+
     padding: 10px 10px 10px 10px;
-    border: 5px solid;
     margin: 10px auto 10px auto;
     width: 80%;
 
-    /*
+
     margin-left: 20px;
     margin-right: 20px;
 }
-*/
-font-family: "Georgia, serif";
+
